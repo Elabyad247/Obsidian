@@ -45,7 +45,7 @@
 			$v*p - TC = 0$
 			$v*p - c_{f} - v*c_{v} = 0$
 			$v(p-c_{v}) = c_{f}$
-			$v = {c_{f} \over p - c_{v}}$
+			${v = {{{c_{f}} \over {p - c_{v}}}}}$
 		<br>
 		
 - **OR Process**
