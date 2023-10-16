@@ -60,7 +60,7 @@
 	4. Model Solution
 	5. Sensitivity Analysis
 	6. Implementation
-	![[or_steps.png]]
+	![[images/or_steps.png]]
 - Applications areas
 	- Project Planning
 	- Capital Budgeting
