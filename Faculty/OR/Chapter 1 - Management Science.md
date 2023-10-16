@@ -26,7 +26,7 @@
 - **OR Models**
 	- An model is defined as simplified representation of a system.
 	  `An approximation or abstraction of real world including its essential elements, which is constructed by establishing relationships among various variables of system, is called a model.`
-		![[model_class.png]]
+		![model_class.png](images/model_class.png)
 	- Break-Even Model
 		- `Used to determine the number of units to sell or produce that will equate total revenue with total cost`
 		`Profit at break-even point is zero`
@@ -60,7 +60,7 @@
 	4. Model Solution
 	5. Sensitivity Analysis
 	6. Implementation
-	![[images/or_steps.png]]
+	![or_steps.png.png](images/or_steps.png.png)
 - Applications areas
 	- Project Planning
 	- Capital Budgeting
